@@ -1,7 +1,15 @@
+body, html {
+  scroll-behavior: smooth;
+}
+
 .nav-link {
   font-family: "Cairo", sans-serif;
 }
 
 .navbar-brand {
+  font-family: "Reem Kufi", sans-serif;
+}
+
+#first h1 {
   font-family: "Reem Kufi", sans-serif;
 }/*# sourceMappingURL=style.css.map */
