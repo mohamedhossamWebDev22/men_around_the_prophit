@@ -2,6 +2,10 @@ body, html {
   scroll-behavior: smooth;
 }
 
+nav {
+  box-shadow: 0px 4px 30px black;
+}
+
 .nav-link {
   font-family: "Cairo", sans-serif;
 }
@@ -28,4 +32,10 @@ body, html {
 
 .card {
   box-shadow: 0px 4px 18px black;
+}
+
+.tit4 {
+  font-family: "Cairo", sans-serif;
+  -webkit-text-decoration: underline rgb(40, 167, 69);
+          text-decoration: underline rgb(40, 167, 69);
 }/*# sourceMappingURL=style.css.map */
