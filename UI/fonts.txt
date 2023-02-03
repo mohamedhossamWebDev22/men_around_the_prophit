@@ -1,0 +1,15 @@
+reem kufi
+
+cairo
+
+aref ruqaa
+
+amiri quran colored
+
+==============================
+all of them from google fonts
+==============================
+font-family: 'Amiri Quran', serif;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Reem Kufi', sans-serif;
